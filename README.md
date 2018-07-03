@@ -74,4 +74,5 @@ NGINX_CONF
 
 
 ## License
+
 GitLab CI Monitor is licensed under the [MIT license](LICENSE).
